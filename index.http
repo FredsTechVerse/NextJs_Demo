@@ -1,0 +1,8 @@
+### GET REQUEST
+GET http://localhost:3000/api/work/2
+
+### POST REQUEST
+PUT http://localhost:3000/api/work/SAMPLE
+
+### DELETE REQUEST
+DELETE http://localhost:3000/api/work/SAMPLE
